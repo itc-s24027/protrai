@@ -1,1 +1,0 @@
-#ProgrammingTrainingにて使用するパブリックリポジトリです
