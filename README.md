@@ -1,1 +1,1 @@
-# test
+ProgrammingTrainingにて使用するパブリックリポジトリです
