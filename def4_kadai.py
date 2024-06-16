@@ -1,5 +1,5 @@
 # s24027
-#
+# main()関数をエントリーポイントとして使用する練習
 
 import random
 def omikuji():
