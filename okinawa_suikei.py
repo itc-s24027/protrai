@@ -21,7 +21,7 @@ backnumber = soup.find('table', class_='table1 font2 gyo5')
 a = []
 
 for element in backnumber('td', align="right"):
-    a.append(element)
+    a.append(element.text)
 
     #print(a)
 
